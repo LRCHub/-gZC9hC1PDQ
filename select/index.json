@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "KICK IT",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2025-12-27T15:54:28.867558Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can I Kick It?",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/01_Can_I_Kick_It_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rebels Kick It",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": false,
+      "path": "select/02_Rebels_Kick_It_YoungBoy_Never_Broke_Again.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kick It",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/03_Kick_It_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kick It",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/04_Kick_It_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kick It Live from 9 to 5",
+      "artist": "The Sugarhill Gang",
+      "has_synced": false,
+      "path": "select/05_Kick_It_Live_from_9_to_5_The_Sugarhill_Gang.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kick It Down",
+      "artist": "Girlschool",
+      "has_synced": true,
+      "path": "select/06_Kick_It_Down_Girlschool.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kick It Down",
+      "artist": "Girlschool",
+      "has_synced": true,
+      "path": "select/07_Kick_It_Down_Girlschool.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kick It Out",
+      "artist": "Heart",
+      "has_synced": true,
+      "path": "select/08_Kick_It_Out_Heart.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kick It Out",
+      "artist": "Heart",
+      "has_synced": false,
+      "path": "select/09_Kick_It_Out_Heart.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kick It In",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/10_Kick_It_In_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kick It",
+      "artist": "Clawfinger",
+      "has_synced": false,
+      "path": "select/11_Kick_It_Clawfinger.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kick It",
+      "artist": "Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/12_Kick_It_Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kick It (Acoustic) - Bonus Track",
+      "artist": "Natasha Bedingfield",
+      "has_synced": false,
+      "path": "select/13_Kick_It_(Acoustic)_-_Bonus_Track_Natasha_Bedingfield.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kick It (acoustic)",
+      "artist": "Natasha Bedingfield",
+      "has_synced": false,
+      "path": "select/14_Kick_It_(acoustic)_Natasha_Bedingfield.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You're Not The Boss Of Me (Kick It)",
+      "artist": "The Vandals",
+      "has_synced": false,
+      "path": "select/15_You're_Not_The_Boss_Of_Me_(Kick_It)_The_Vandals.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kick It to Me - Single Version",
+      "artist": "Sammy Rae",
+      "has_synced": true,
+      "path": "select/16_Kick_It_to_Me_-_Single_Version_Sammy_Rae.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kick It to Me (Single Version)",
+      "artist": "Sammy Rae & The Friends",
+      "has_synced": true,
+      "path": "select/17_Kick_It_to_Me_(Single_Version)_Sammy_Rae_&_The_Friends.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kick It",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_Kick_It_BLACKPINK.txt"
+    }
+  ]
+}
